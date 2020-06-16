@@ -1,21 +1,22 @@
 # NMT-Resources
-Github资源：
-1、	https://github.com/NiuTrans/MTBook
-2、	https://github.com/THUNLP-MT/MT-Reading-List
-3、	https://github.com/fighting41love/funNLP
-4、	https://github.com/InsaneLife/ChineseNLPCorpus
-5、	https://github.com/brightmart/nlp_chinese_corpus
-6、	https://github.com/THUNLP-MT/THUMT
-7、	https://github.com/tensorflow/addons（用于tf2.0升级）
-8、	https://github.com/tensorflow/models
-9、	https://github.com/tensorflow/nmt
-10、	https://github.com/harvardnlp/annotated-transformer
-11、	https://github.com/tensorflow/tensorflow
-12、	https://github.com/tensorflow/tensor2tensor
-13、	https://github.com/OpenNMT/OpenNMT-tf
-14、	https://github.com/google/sentencepiece
-15、	https://github.com/rsennrich/subword-nmt
-16、	https://github.com/fxsjy/jieba
+
+## Github资源：
+1. https://github.com/NiuTrans/MTBook
+2. https://github.com/THUNLP-MT/MT-Reading-List
+3. https://github.com/fighting41love/funNLP
+4. https://github.com/InsaneLife/ChineseNLPCorpus
+5. https://github.com/brightmart/nlp_chinese_corpus
+6. https://github.com/THUNLP-MT/THUMT
+7. https://github.com/tensorflow/addons（用于tf2.0升级）
+8. https://github.com/tensorflow/models
+9. https://github.com/tensorflow/nmt
+10. https://github.com/harvardnlp/annotated-transformer
+11. https://github.com/tensorflow/tensorflow
+12. https://github.com/tensorflow/tensor2tensor
+13. https://github.com/OpenNMT/OpenNMT-tf
+14. https://github.com/google/sentencepiece
+15. https://github.com/rsennrich/subword-nmt
+16.	https://github.com/fxsjy/jieba
 
 网页资源：
 1、	http://www.52nlp.cn/statistical-machine-translation-tutorial-reading

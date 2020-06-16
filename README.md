@@ -73,6 +73,12 @@
 20. Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures
 21. WORD TRANSLATION WITHOUT PARALLEL DATA
 22. Bridging the Gap between Training and Inference for Neural Machine Translation
+23. deliberation networks: sequence generation beyond one-pass decoding
+24. Adaptive Multi-pass Decoder for Neural Machine Translation
+25. Dynamic Data Selection for Neural Machine Translation
+26. An Empirical Exploration of Curriculum Learning for Neural Machine Translation
+27. Dynamic Sentence Sampling for Efficient Training of Neural Machine Translation
+28. Analyzing Uncertainty in Neural Machine Translation
 
 ### 其他：
 1. BLEU: A Method for Automatic Evaluation of Machine Translation
